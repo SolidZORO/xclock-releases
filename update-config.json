@@ -4,15 +4,15 @@
   "updateMessage": "",
   "package": "com.anonymous.xclock",
   "channel": "production",
-  "version": "0.0.29",
-  "versionCode": 29,
+  "version": "0.0.31",
+  "versionCode": 31,
   "minSupportedVersionCode": 25,
   "releaseNotes": [
     "加入天气图标 Switch 开关"
   ],
   "forceUpdate": false,
-  "downloadUrl": "https://github.com/SolidZORO/xclock-releases/releases/download/v0.0.29/com.anonymous.xclock-v0.0.29-64d140bd-production.apk",
+  "downloadUrl": "https://github.com/SolidZORO/xclock-releases/releases/download/v0.0.31/com.anonymous.xclock-v0.0.31-f7e855c0-production",
   "publishTime": "2026-07-18T05:30:00Z",
-  "sha256": "4ddace1afa4ecc12df514d42a004f8c2c5d3215f0e549b6cb582529e368c19db",
+  "sha256": "",
   "fileSize": 59768832
 }
