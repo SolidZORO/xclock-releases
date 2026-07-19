@@ -4,17 +4,16 @@
   "updateMessage": "",
   "package": "com.anonymous.xclock",
   "channel": "production",
-  "version": "0.0.33",
-  "versionCode": 33,
-  "minSupportedVersionCode": 31,
+  "version": "0.0.34",
+  "versionCode": 34,
+  "minSupportedVersionCode": 10,
   "releaseNotes": [
-    "添加同步更新 update-config 脚本 ([fd0fc67](https://github.com/SolidZORO/xclock/commit/fd0fc67fb16829df0db128fb4e76b790ec25f880))",
-    "清理缓存中旧的 update-*.apk 文件，避免累积 ([1551308](https://github.com/SolidZORO/xclock/commit/15513087094cd2385db4840962047b62ce288049))"
+    "minSupportedVersionCode 固定到 10"
   ],
   "forceUpdate": false,
-  "downloadUrl": "https://github.com/SolidZORO/xclock-releases/releases/download/v0.0.33/com.anonymous.xclock-v0.0.33-867495ae-production.apk",
-  "publishTime": "2026-07-19T06:51:36.273Z",
-  "buildTime": "2026-07-19 14:51:13",
-  "sha256": "c70d71f93cb7bc81227bb94aaaea6fa0bfc31fc64afaed7ee9343731c12ae1b6",
-  "fileSize": 59448404
+  "downloadUrl": "https://github.com/SolidZORO/xclock-releases/releases/download/v0.0.34/com.anonymous.xclock-v0.0.34-552d67a3-production.apk",
+  "buildTime": "2026-07-19 16:07:15",
+  "sha256": "ed01b3195d1ec152b8c04ae6d328ea10ea5dc8fce9370ed4261c79ea50a2bb4a",
+  "fileSize": 59447868,
+  "publishTime": "2026-07-19 16:07:27"
 }
