@@ -4,16 +4,17 @@
   "updateMessage": "",
   "package": "com.anonymous.xclock",
   "channel": "production",
-  "version": "0.0.34",
-  "versionCode": 34,
+  "version": "0.0.36",
+  "versionCode": 36,
   "minSupportedVersionCode": 10,
   "releaseNotes": [
-    "minSupportedVersionCode 固定到 10"
+    "fix: 日期组件每秒更新避免跨日不变",
+    "fix: 休息模式刷新选项排序调整，1分钟排在1秒前面"
   ],
   "forceUpdate": false,
-  "downloadUrl": "https://github.com/SolidZORO/xclock-releases/releases/download/v0.0.34/com.anonymous.xclock-v0.0.34-552d67a3-production.apk",
-  "buildTime": "2026-07-19 16:07:15",
-  "sha256": "ed01b3195d1ec152b8c04ae6d328ea10ea5dc8fce9370ed4261c79ea50a2bb4a",
-  "fileSize": 59447868,
-  "publishTime": "2026-07-19 16:22:26"
+  "downloadUrl": "https://github.com/SolidZORO/xclock-releases/releases/download/v0.0.36/com.anonymous.xclock-v0.0.36-ebce257f-production.apk",
+  "buildTime": "2026-07-19 18:49:22",
+  "sha256": "6df4d775a101ef08ac171b68c4d02ff579bb7cf68c0c2dae18cbcfab4d048981",
+  "fileSize": 59449548,
+  "publishTime": "2026-07-19 18:59:51"
 }
