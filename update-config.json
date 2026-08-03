@@ -4,16 +4,18 @@
   "updateMessage": "",
   "package": "com.anonymous.xclock",
   "channel": "production",
-  "version": "0.0.40",
-  "versionCode": 40,
+  "version": "0.0.41",
+  "versionCode": 41,
   "minSupportedVersionCode": 10,
   "releaseNotes": [
-    "使用 getCurThemeBgColor 拿到当前主题颜色"
+    "优化setting 配置",
+    "修复定位 api 无法使用",
+    "调整 setting 配置"
   ],
   "forceUpdate": false,
-  "downloadUrl": "https://github.com/SolidZORO/xclock-releases/releases/download/v0.0.40/com.anonymous.xclock-v0.0.40-b2edf172-production.apk",
-  "buildTime": "2026-08-02 00:53:14",
-  "sha256": "336a91c72e963a989c320a4a017fda8c079c3efd7e9ea91913188fd93f6ac2f5",
-  "fileSize": 59998964,
-  "publishTime": "2026-08-02 00:55:45"
+  "downloadUrl": "https://github.com/SolidZORO/xclock-releases/releases/download/v0.0.41/com.anonymous.xclock-v0.0.41-562c16fa-production.apk",
+  "buildTime": "2026-08-03 19:47:44",
+  "sha256": "32836536737762e170273d7a7083cce1e621e9c9dd5ca95aea3cae45c2815860",
+  "fileSize": 60017048,
+  "publishTime": "2026-08-03 19:57:23"
 }
