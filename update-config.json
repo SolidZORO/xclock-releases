@@ -4,18 +4,16 @@
   "updateMessage": "",
   "package": "com.anonymous.xclock",
   "channel": "production",
-  "version": "0.0.41",
-  "versionCode": 41,
+  "version": "0.0.42",
+  "versionCode": 42,
   "minSupportedVersionCode": 10,
   "releaseNotes": [
-    "优化setting 配置",
-    "修复定位 api 无法使用",
-    "调整 setting 配置"
+    "降级 ts7 -> 6 修复 eslint"
   ],
   "forceUpdate": false,
-  "downloadUrl": "https://github.com/SolidZORO/xclock-releases/releases/download/v0.0.41/com.anonymous.xclock-v0.0.41-562c16fa-production.apk",
-  "buildTime": "2026-08-03 19:47:44",
-  "sha256": "32836536737762e170273d7a7083cce1e621e9c9dd5ca95aea3cae45c2815860",
-  "fileSize": 60017048,
-  "publishTime": "2026-08-03 19:57:23"
+  "downloadUrl": "https://github.com/SolidZORO/xclock-releases/releases/download/v0.0.42/com.anonymous.xclock-v0.0.42-2328c576-production.apk",
+  "buildTime": "2026-08-04 20:50:20",
+  "sha256": "f71d5acc4099703d63c181fbb76e245151f93e7868e7a085d78c23ca62b4a61e",
+  "fileSize": 60019808,
+  "publishTime": "2026-08-04 20:50:53"
 }
